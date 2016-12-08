@@ -6,4 +6,5 @@ echo "Feature1!";
 
 echo "Well master has been editted";
 echo "Feature2";
+echo "FROM MASRTER";
 ?>
